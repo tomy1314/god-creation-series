@@ -1,13 +1,13 @@
-> 版本：v1.8.5-patch2（2026-11-14 双轨汇报格式（第二层架构师审查区）重算；patch1＝小白友好输出协议＋删「种子六项问答」；v1.8.5＝28 包 §1–§4 商业层＋genre-baseline 一页摘要＋细纲套路落位；v1.8.4-patch3＝信使接力协议六复制框＋五阻断点指针化＋README 操作面板；patch2＝清理余电硬编码残留＋仓颉接口去硬编码＋router §3.5 扩展神调用协议；v1.8.4＝人味＋防贫嘴；v1.8.3＝节奏呼吸阀；v1.8.2＝五扩展神接入＋router＋tropes＋workflow 剥离；v1.8.1＝通用对账＋反派矩阵＋补记一二三），57 项）
+> 版本：v1.8.5-patch8（2026-11-17 两测试书废弃删档引用清洗重算：CHANGELOG／workflow 历史记录书名改通用代号，删档不涉及伏羲本体文件；patch7＝2026-11-17 去 AI 味清洗重算：workflow 第 26 条表里分离死规定＋router P1 补句＋六神位生成侧清洗（盘古 0.4／女娲 1.3／天机 1.2／仓颉 1.4／白泽 1.2／祝融 1.2）＋月老指针改道＋测试书B旧资产封存；patch6＝2026-11-16 养分机械臂三期重算：盘古/仓颉/共工/月老/白泽/烛龙升级＋README 版本列平账；patch5＝养分机械臂一二期：router 排期三查＋神农/祝融首期补落＋天机/蚩尤/女娲升级；patch4＝收口重算（甲案落盘＋版本统一 1.8.5）；patch3＝十二神瘦身；patch2＝双轨汇报格式（第二层架构师审查区）；patch1＝小白友好输出协议＋删「种子六项问答」；v1.8.5＝28 包 §1–§4 商业层＋genre-baseline 一页摘要＋细纲套路落位；v1.8.4-patch3＝信使接力协议六复制框＋五阻断点指针化＋README 操作面板；patch2＝清理测试书A硬编码残留＋仓颉接口去硬编码＋router §3.5 扩展神调用协议；v1.8.4＝人味＋防贫嘴；v1.8.3＝节奏呼吸阀；v1.8.2＝五扩展神接入＋router＋tropes＋workflow 剥离；v1.8.1＝通用对账＋反派矩阵＋补记一二三），57 项）
 > 重算记录：由 Python 脚本程序化重算（非手写）；此后任何文件改动须先补记 CHANGELOG 再重算本表。
 > **披露（已结案）**：`references/process-gates.md` 曾与 v1.7.4 表不符——已溯源为 2026-11-07「盘古接入闭环」经作者批准的改动，仅当时漏记 CHANGELOG，现已在 v1.8.1 补记中登记；本表原「v1.8.0 会话漏记」推测有误，一并更正。
 > **自引用说明**：表中 `VERSION_HASH.md` 一行为占位——本文件包含自身哈希在数学上不可能自洽（写入即失效）。校验以**其余 56 项**为准；本行仅保持表结构完整。
 
 | 文件 | SHA-256 |
 |---|---|
-| `CHANGELOG.md` | `f220f35fd046ed954a444649e01a849507ed6ad221f6bc3edaa4c5c9e13d5408` |
+| `CHANGELOG.md` | `1ca7b55a9f68dde3d0a9bc0643b7730bb4b6d1ed16bc14605df527c358e21385` |
 | `LICENSE` | `fe4bb17328ad5cbd0fe95f21de4e22c44aeaa0d4bd5f2a91a1e2bfce9efb822e` |
-| `SKILL.md` | `212f1c4a7ccad7e897e2ae2893f78c4343d59481dbe35803ae24849efb923a4b` |
+| `SKILL.md` | `3f716728adc1d54d302209e3a471e63de19ce786f5ebc1cdc10cddb7049ae106` |
 | `banned_words.md` | `789674330380f8e2d5de0a41aced730fd9eb7c67f72a84d3d7ab2e895fa56e26` |
 | `references/dialogue.md` | `2740b59c516ca1b9124f69bbd7a621a3485f004dff415321659c8eecb00ab8a2` |
 | `references/engine-gate.md` | `c10da6f0fc201d371366ec44d1fb147ceee95ca1df259cbef9f197065e836c20` |
@@ -44,16 +44,16 @@
 | `references/init-and-genre.md` | `e769c87d279f213acc12066a0f7e245ad9ab6c400a6397378c4b4daecee57402` |
 | `references/modes.md` | `54b5228ce4593ed0b809408a909529716a409576cc94bac532d0331502d49688` |
 | `references/poetry.md` | `6039313a85ce10b4016bc46ec6171cdbe8b9bf50a121adf5e40018d0e0e720c2` |
-| `references/process-gates.md` | `c5413b75549037565eb95c22638c49b9ba99af12128f2898f888ab8108c26873` |
+| `references/process-gates.md` | `4e5860c8ed7dc6399bd52f80429a33e04c469965daaf46dbeb43124305929893` |
 | `references/progress-tracking.md` | `08bb9e97e9559ab7594dba71bd8e7440397d6cd1f17f63c7f8ef6a5d38ccabcc` |
-| `references/prose-rules.md` | `c9e43d6577e03905d32af9b7252bdce9012e18a0a97077d3b852bbbd3c7e6af7` |
-| `references/quality-audit.md` | `5cac7e8fb45e483b57f75ccf64dfe58f34130b1b4c5049b16d6709e7564cdbdb` |
+| `references/prose-rules.md` | `67fe2f783b96fdbc2d26c7630874530fe4212161179094f85869c852e05fd635` |
+| `references/quality-audit.md` | `58197c627b8cacd9b946dbd766c1ce2114c6f0c3e42d7607b32671dcf65ba8c0` |
 | `references/refine.md` | `9c0006905ea0deac1d6faea1103fea7f9a5aaa69ff809a5665144c398062a4cc` |
-| `references/router.md` | `d1587ec5a8a8a5e1ed637c231eb2cf853f0b2f3d31cbd62edcb63447be60c3cf` |
+| `references/router.md` | `a1b5ba1b4757d705edc81afe4fe00bc1adcbecfb1e184dae31259d1a721d9e0a` |
 | `references/series-parallel.md` | `d43836bf87d1ef4387c16dac807c33c1031d74f9cee9f69046912010845cc5f2` |
 | `references/state-templates.md` | `54d711fb79c0b315efd7cef54fd2fd6ecc0278f625b701802d3897ceb5b72d65` |
 | `references/tropes.md` | `da09ead9e8faeb47d97bed3d66b62b00d438fa7337985469a7274866365c95fc` |
-| `references/workflow.md` | `8aff9d45bcd462c5be25eb26961dd246656cbd8820b1cbacfaa8ca1214e6092b` |
+| `references/workflow.md` | `ff9ec6765e1d45eaf4a4b78586b23818a754b23d7433196e7adb2ba792ed400a` |
 | `references/world-consistency.md` | `4fcaffccdc7d395d84d4f128dd35ce15bbbb05eb21f6be5ae0aa8d50827f8680` |
 | `references/writing-rules-general.md` | `a8c37038884b94ca5ad7dd6fa14c317dc3da80f53e4c6172b6bf65b18927cb85` |
 | `scripts/guard.py` | `689b3e31cac3c1570468ab790feebf80776094c6ba517c14781a411016690495` |
