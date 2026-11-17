@@ -5,7 +5,7 @@
 
 | 文件 | SHA-256 |
 |---|---|
-| `CHANGELOG.md` | `1ca7b55a9f68dde3d0a9bc0643b7730bb4b6d1ed16bc14605df527c358e21385` |
+| `CHANGELOG.md` | `fe759b6c06db6cf8d45dca712e82458ccaa1069b4468f20a864e2940f06b2519` |
 | `LICENSE` | `fe4bb17328ad5cbd0fe95f21de4e22c44aeaa0d4bd5f2a91a1e2bfce9efb822e` |
 | `SKILL.md` | `3f716728adc1d54d302209e3a471e63de19ce786f5ebc1cdc10cddb7049ae106` |
 | `banned_words.md` | `789674330380f8e2d5de0a41aced730fd9eb7c67f72a84d3d7ab2e895fa56e26` |
